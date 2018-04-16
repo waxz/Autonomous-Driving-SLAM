@@ -11,6 +11,10 @@
       <p align="center">
            <a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit%20A"><img src="./Unit A/Final logfile viewer.JPG" alt="Overview" width="60%" height="60%"></a>
            <br><a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit%20A" name="p1_code">Unit A: Motion Model </a>
+        </p>
+    </th>
+  </tr>
+</table>
 --- 
 
 ## Table of Contents

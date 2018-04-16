@@ -10,7 +10,10 @@
     <th>
       <p align="center">
            <a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit%20A"><img src="./Unit A/Final logfile viewer.JPG" alt="Overview" width="60%" height="60%"></a>
-           <br><a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit%20A" name="p1_code">Motion Model and landmarks identification</a>
+           <br><a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit%20A" name="p1_code">Unit A: Motion Model </a>
         
-        
-***Unit A*** - Developing a motion model, finding the trajectory from the encoder data and identifying landmarks from LiDAR data.
+ ## Table of Contents
+
+#### [Motion Model](Unit A)
+ - **Summary:** Developed a motion model, found the trajectory from the encoder data and identified landmarks from LiDAR data.
+ - **Keywords:** Motion model, motor model, LiDAR data.       

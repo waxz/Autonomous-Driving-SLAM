@@ -19,6 +19,6 @@
 
 ## Table of Contents
 
-#### [Motion Model](Unit A)
+#### [Motion Model]
  - **Summary:** Developed a motion model, found the trajectory from the encoder data and identified landmarks from LiDAR data.
  - **Keywords:** Motion model, motor model, LiDAR data.       

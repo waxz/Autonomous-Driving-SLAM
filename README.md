@@ -11,8 +11,9 @@
       <p align="center">
            <a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit%20A"><img src="./Unit A/Final logfile viewer.JPG" alt="Overview" width="60%" height="60%"></a>
            <br><a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit%20A" name="p1_code">Unit A: Motion Model </a>
-        
- ## Table of Contents
+--- 
+
+## Table of Contents
 
 #### [Motion Model](Unit A)
  - **Summary:** Developed a motion model, found the trajectory from the encoder data and identified landmarks from LiDAR data.

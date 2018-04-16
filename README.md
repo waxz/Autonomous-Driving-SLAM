@@ -5,7 +5,7 @@
 ## Overview
 
 ### Projects
-<table style="width:100%">
+<table style="width:75%">
   <tr>
     <th>
       <p align="center">

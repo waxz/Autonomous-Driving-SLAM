@@ -9,8 +9,8 @@
   <tr>
     <th>
       <p align="center">
-           <a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit%20A"><img src="./Unit A/Final logfile viewer.JPG" alt="Overview" width="110%" height="100%"></a>
-           <br><a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit%20A" name="p1_code">Unit A: Motion Model </a>
+           <a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_A"><img src="./Unit_A/final_logfile_viewer.JPG" alt="Overview" width="110%" height="100%"></a>
+           <br><a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_A" name="p1_code">Unit_A: Motion Model </a>
         </p>
     </th>
   </tr>

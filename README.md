@@ -26,7 +26,7 @@
 ## Table of Contents
 
 #### [1. Motion model](Unit_A)
- - **Summary:** Developed a motion model, transformed the motor ticks of the robot into a real world trajectory and corrected the calibration error by using LiDAR data to detect the location of the landmarks in scanner's coordinate system.
+ - **Summary:** Developed a motion model, transformed the motor ticks of the robot into a real world trajectory and corrected the calibration error by using the LiDAR data to detect the location of the landmarks in scanner's coordinate system.
  - **Keywords:** Motion model, motor model, LiDAR and encoder data.
 
 #### [2. Localization](Unit_B)

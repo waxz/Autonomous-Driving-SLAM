@@ -27,9 +27,9 @@
 
 #### [1. Motion model](Unit_A)
  - **Summary:** Developed a motion model, transformed the motor ticks of the robot into a real world trajectory and corrected the calibration error by using the LiDAR data to detect the location of the landmarks in scanner's coordinate system.
- - **Keywords:** Motion model, motor model, LiDAR and encoder data.
+ - **Keywords:** Motion model, motor control, LiDAR and encoder data.
 
 #### [2. Localization](Unit_B)
  - **Feature Based Localization:** Assigned the detected landmarks to the respective landmarks in the map, developed the mathematics for similarity transformation and applied as a direct solution, and corrected the pose of the robot based on the transform.
  - **Featureless localization:** Assigned the scan points to the walls of the arena and applied Iterative Closest Point to find the optimal transformation.
-
+ - **Keywords:** Similarity transformation, ICP

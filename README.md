@@ -15,7 +15,7 @@
     </th>
     <th>
       <p align="center">
-           <a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_B"><img src="./Unit_B/iterative_closest_point_final.JPG" alt="Overview" width="100%" height="100%"></a>
+           <a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_B"><img src="./Unit_B/icp.gif" alt="Overview" width="100%" height="100%"></a>
            <br><a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_B" name="p1_code">Unit_B: Feature based and Featureless localization </a>
         </p>
     </th>

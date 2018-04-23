@@ -39,5 +39,5 @@
  - **Summary** _Feature Based Localization:_ Assigned the detected landmarks to the respective landmarks in the map, developed the mathematics for similarity transformation and applied as a direct solution, and corrected the pose of the robot based on the transform. _Featureless localization:_ Assigned the scan points to the walls of the arena and applied Iterative Closest Point to find the optimal transformation.
  - **Keywords:** Similarity transformation, ICP
 #### [3. Bayes Filter](Unit_C)
- - **Summary:** Developed a motion model, transformed the motor ticks of the robot into a real world trajectory and corrected the calibration error by using the LiDAR data to detect the location of the landmarks in scanner's coordinate system.
- - **Keywords:** Motion model, motor control, LiDAR and encoder data.
+ - **Summary:** Developed a histogram filter and a 1-D Kalman filter which are recursive Bayes filters, to estimate the true position of the Robot, which is uncertain about its movement and has measurement noise.
+ - **Keywords:** Histogram filter, 1-D Kalman filter.

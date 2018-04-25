@@ -49,6 +49,6 @@
 #### [3. Bayes Filter](Unit_C)
  - **Summary:** Developed a histogram filter and a 1-D Kalman filter which are recursive Bayes filters, to estimate the true position of the Robot, which is uncertain about its movement and has measurement noise.
  - **Keywords:** Histogram filter, 1-D Kalman filter.
-#### [3. Kalman Filter](Unit_D)
+#### [4. Kalman Filter](Unit_D)
  - **Summary:** 
  - **Keywords:** 

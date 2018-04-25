@@ -25,6 +25,12 @@
            <br><a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_C" name="p1_code">Unit_C: Bayes Filter </a>
         </p>
     </th>
+    <th>
+      <p align="center">
+           <a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_D"><img src="./Unit_D/EKF_prediction_and_correction.gif" alt="Overview" width="100%" height="100%"></a>
+           <br><a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_D" name="p1_code">Unit_D: Kalman Filter </a>
+        </p>
+    </th>
   </tr>
 </table>
 --- 
@@ -41,3 +47,6 @@
 #### [3. Bayes Filter](Unit_C)
  - **Summary:** Developed a histogram filter and a 1-D Kalman filter which are recursive Bayes filters, to estimate the true position of the Robot, which is uncertain about its movement and has measurement noise.
  - **Keywords:** Histogram filter, 1-D Kalman filter.
+#### [3. Kalman Filter](Unit_D)
+ - **Summary:** 
+ - **Keywords:** 

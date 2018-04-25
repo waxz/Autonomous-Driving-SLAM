@@ -5,29 +5,29 @@
 ## Overview
 
 ### Projects
-<table style="width:75%">
+<table style="width:100%">
   <tr>
     <th>
       <p align="center">
-           <a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_A"><img src="./Unit_A/motion_model.gif" alt="Overview" width="100%" height="100%"></a>
+           <a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_A"><img src="./Unit_A/motion_model.gif" alt="Overview" width="60%" height="60%"></a>
            <br><a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_A" name="p1_code">Unit_A: Motor and Motion Model </a>
         </p>
     </th>
     <th>
       <p align="center">
-           <a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_B"><img src="./Unit_B/icp.gif" alt="Overview" width="100%" height="100%"></a>
+           <a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_B"><img src="./Unit_B/icp.gif" alt="Overview" width="60%" height="60%"></a>
            <br><a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_B" name="p1_code">Unit_B: Feature based and Featureless localization </a>
         </p>
     </th>
     <th>
       <p align="center">
-           <a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_C"><img src="./Unit_C/img_03_KF.gif" alt="Overview" width="100%" height="100%"></a>
+           <a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_C"><img src="./Unit_C/img_03_KF.gif" alt="Overview" width="60%" height="60%"></a>
            <br><a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_C" name="p1_code">Unit_C: Bayes Filter </a>
         </p>
     </th>
     <th>
       <p align="center">
-           <a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_D"><img src="./Unit_D/kalman_prediction_and_correction.gif" alt="Overview" width="100%" height="100%"></a>
+           <a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_D"><img src="./Unit_D/kalman_prediction_and_correction.gif" alt="Overview" width="60%" height="60%"></a>
            <br><a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_D" name="p1_code">Unit_D: Extended Kalman Filter </a>
         </p>
     </th>

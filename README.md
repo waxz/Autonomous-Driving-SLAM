@@ -9,39 +9,30 @@
   <tr>
     <th>
       <p align="center">
-           <a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_A"><img src="./Unit_A/motion_model.gif" alt="Overview" width="250%" height="250%"></a>
+           <a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_A"><img src="./Unit_A/motion_model.gif" alt="Overview" width="60%" height="60%"></a>
            <br><a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_A" name="p1_code">Unit_A: Motor and Motion Model </a>
         </p>
     </th>
     <th>
       <p align="center">
-           <a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_B"><img src="./Unit_B/icp.gif" alt="Overview" width="250%" height="250%"></a>
+           <a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_B"><img src="./Unit_B/icp.gif" alt="Overview" width="60%" height="60%"></a>
            <br><a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_B" name="p1_code">Unit_B: Feature based and Featureless localization </a>
         </p>
     </th>
     <th>
       <p align="center">
-           <a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_C"><img src="./Unit_C/img_03_KF.gif" alt="Overview" width="250%" height="250%"></a>
+           <a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_C"><img src="./Unit_C/img_03_KF.gif" alt="Overview" width="60%" height="60%"></a>
            <br><a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_C" name="p1_code">Unit_C: Bayes Filter </a>
         </p>
     </th>
-  </tr>
-</table>
-<table style="width:100%">
-  <tr>
     <th>
       <p align="center">
-           <a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_D"><img src="./Unit_D/kalman_prediction_and_correction.gif" alt="Overview" width="250%" height="250%"></a>
+           <a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_D"><img src="./Unit_D/kalman_prediction_and_correction.gif" alt="Overview" width="60%" height="60%"></a>
            <br><a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_D" name="p1_code">Unit_D: Extended Kalman Filter </a>
         </p>
     </th>
   </tr>
-    <th>
-      <p align="center">
-           <a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_B"><img src="./Unit_B/icp.gif" alt="Overview" width="250%" height="250%"></a>
-           <br><a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_B" name="p1_code">Unit_B: Feature based and Featureless localization </a>
-        </p>
-    </th>
+</table>
 --- 
 
 ## Table of Contents
@@ -51,4 +42,11 @@
  - **Keywords:** Motion model, motor control, LiDAR and encoder data.
 
 #### [2. Localization](Unit_B)
- - **Summary** _Feature Based Localization:_ Assigned the detected landmarks to the respective landmarks in the map, developed the mathematics for similar
+ - **Summary** _Feature Based Localization:_ Assigned the detected landmarks to the respective landmarks in the map, developed the mathematics for similarity transformation and applied as a direct solution, and corrected the pose of the robot based on the transform. _Featureless localization:_ Assigned the scan points to the walls of the arena and applied Iterative Closest Point to find the optimal transformation.
+ - **Keywords:** Similarity transformation, ICP
+#### [3. Bayes Filter](Unit_C)
+ - **Summary:** Developed a histogram filter and a 1-D Kalman filter which are recursive Bayes filters, to estimate the true position of the Robot, which is uncertain about its movement and has measurement noise.
+ - **Keywords:** Histogram filter, 1-D Kalman filter.
+#### [3. Kalman Filter](Unit_D)
+ - **Summary:** 
+ - **Keywords:** 

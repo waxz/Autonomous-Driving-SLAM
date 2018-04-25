@@ -27,7 +27,7 @@
     </th>
     <th>
       <p align="center">
-           <a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_D"><img src="./Unit_D/kalman_prediction_and_correction.gif.gif" alt="Overview" width="100%" height="100%"></a>
+           <a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_D"><img src="./Unit_D/kalman_prediction_and_correction.gif" alt="Overview" width="100%" height="100%"></a>
            <br><a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_D" name="p1_code">Unit_D: Kalman Filter </a>
         </p>
     </th>

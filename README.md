@@ -25,6 +25,8 @@
            <br><a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_C" name="p1_code">Unit_C: Bayes Filter </a>
         </p>
     </th>
+  </tr>
+  <tr>
     <th>
       <p align="center">
            <a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_D"><img src="./Unit_D/kalman_prediction_and_correction.gif" alt="Overview" width="60%" height="60%"></a>

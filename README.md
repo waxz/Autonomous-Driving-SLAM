@@ -26,6 +26,8 @@
         </p>
     </th>
   </tr>
+</table>
+<table style="width:100%">
   <tr>
     <th>
       <p align="center">

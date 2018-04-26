@@ -33,6 +33,12 @@
            <br><a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_D" name="p1_code">Unit_D: Extended Kalman Filter </a>
         </p>
     </th>
+    <th>
+      <p align="center">
+           <a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_E"><img src="./Unit_E/particle_filter.gif" alt="Overview" width="100%" height="100%"></a>
+           <br><a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_E" name="p1_code">Unit_D: Particle Filter </a>
+        </p>
+    </th>
   </tr>
 </table>
 --- 
@@ -52,3 +58,6 @@
 #### [4. Kalman Filter](Unit_D)
  - **Summary:** 
  - **Keywords:** 
+#### [5. Particle Filter](Unit_E)
+ - **Summary:** 
+ - **Keywords:**

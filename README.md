@@ -41,7 +41,7 @@
     </th>
     <th>
       <p align="center">
-           <a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_F"><img src="./Unit_E/ekf_slam.gif" alt="Overview" width="100%" height="100%"></a>
+           <a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_F"><img src="./Unit_F/ekf_slam.gif" alt="Overview" width="100%" height="100%"></a>
            <br><a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_F" name="p1_code">Unit_F: EKF SLAM </a>
         </p>
     </th>

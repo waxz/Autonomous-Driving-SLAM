@@ -62,11 +62,11 @@
  - **Summary:** Developed a histogram filter and a 1-D Kalman filter which are recursive Bayes filters, to estimate the true position of the Robot, which is uncertain about its movement and has measurement noise.
  - **Keywords:** Histogram filter, 1-D Kalman filter.
 #### [4. Kalman Filter](Unit_D)
- - **Summary:** 
- - **Keywords:** 
+ - **Summary:** Augmented the Kalman filter developed in Unit 3 to _n_ dimensions and implemented Exteded Kalman filter to localize our robot which has non linear states and control commands.
+ - **Keywords:** Extended Kalman filter.
 #### [5. Particle Filter](Unit_E)
- - **Summary:** 
- - **Keywords:**
+ - **Summary:** Implemented a Monte Carlo Localization algorithm knows as Particle Filter, which could handle any kind of model (not just Gaussian) by discretizing the problem into individual particles to generate different system states. The states which are supported by the sensor data are assigned high weights. Rhe particles with low weights are ignored and new random sampling is done to keep the number of particles constant.
+ - **Keywords:** Particle filter localization
 #### [6. EKF SLAM](Unit_F)
- - **Summary:** 
+ - **Summary:** What if the robot is not given the map of the environment? This is the common problem in the field of autonomous navigation. We have to estimate  The process of estimating the The In this part of the project we implement an Extended Kalman Filter Simultaeous Localization and Mapping algorithm
  - **Keywords:**

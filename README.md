@@ -39,6 +39,12 @@
            <br><a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_E" name="p1_code">Unit_D: Particle Filter </a>
         </p>
     </th>
+    <th>
+      <p align="center">
+           <a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_F"><img src="./Unit_E/ekf_slam.gif" alt="Overview" width="100%" height="100%"></a>
+           <br><a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_F" name="p1_code">Unit_F: EKF SLAM </a>
+        </p>
+    </th>
   </tr>
 </table>
 --- 
@@ -59,5 +65,8 @@
  - **Summary:** 
  - **Keywords:** 
 #### [5. Particle Filter](Unit_E)
+ - **Summary:** 
+ - **Keywords:**
+#### [6. EKF SLAM](Unit_F)
  - **Summary:** 
  - **Keywords:**

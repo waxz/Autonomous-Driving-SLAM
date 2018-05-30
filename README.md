@@ -10,7 +10,7 @@
     <th>
       <p align="center">
            <a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_A"><img src="./Unit_A/robot_motion_model.gif" alt="Overview" width="100%" height="100%"></a>
-           <br><a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_A" name="p1_code">Unit_A: Motor and Motion Model </a>
+           <br><a href="https://github.com/KarthickPN/Autonomous-Driving---SLAM/tree/master/Unit_A" name="p1_code">Unit_A: Motion and Sensor Model </a>
         </p>
     </th>
     <th>
@@ -51,8 +51,8 @@
 
 ## Table of Contents
 
-#### [1. Motion model](Unit_A)
- - **Summary:** Developed a motion model, transformed the motor ticks of the robot into a real world trajectory and corrected the calibration error by using the LiDAR data to detect the location of the landmarks in scanner's coordinate system.
+#### [1. Model](Unit_A)
+ - **Summary:** Developed a motion model of the robot, transformed the motor ticks of the robot into a real world trajectory and corrected the calibration error with the sensor model, developed using the LiDAR data by detecting the location of the landmarks in scanner's coordinate system.
  - **Keywords:** Motion model, motor control, LiDAR and encoder data.
 
 #### [2. Localization](Unit_B)
